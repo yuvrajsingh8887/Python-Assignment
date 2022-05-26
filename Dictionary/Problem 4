@@ -1,0 +1,5 @@
+t = {'a':1,'b':2,'c':3,'d':4}
+print(t)
+if 'a' in t: 
+    del t['a']
+print(t)
