@@ -1,0 +1,4 @@
+keys = ['red', 'green', 'blue']
+values = ['color','yes', 'no']
+c= dict(zip(keys, values))
+print(c)
