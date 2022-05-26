@@ -1,0 +1,5 @@
+def display_student(name, age):
+    print(name, age)
+display_student("Yuvraj", 26)
+showStudent = display_student
+showStudent("Yuvraj", 26)
